@@ -6,5 +6,6 @@ Add a proxy scaper + checker so it hides your ip
 Add a proxy option where the user can add their own proxys
 
 ## Installation
-git clone 
+git clone https://github.com/TheRookie5619/MALS-RIPPER 
+
 cd MALS-RIPPER
