@@ -1,5 +1,7 @@
 # MALS-RIPPER
-The best DDoS TOOL. Amlifed verion of DDoS Ripper and many more.
+The My DDos Tool. Please only use this for educational purposes.
+YOUR IP IS VISIBLE WHEN USING THIS ALWAYS USE A PROXY SERVER OR VPN OR IP VANISH
+PROXY SUPPORT COMMING SOON
 
 ## TO DO
 Add a proxy scaper + checker so it hides your ip
